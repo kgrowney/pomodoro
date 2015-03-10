@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+.supersonic-navbar-mock {
+  background-color: #00B5FF !important;
+  text-align: center;
+  font-weight: 600;
+}
+
+.gradient-background {
+  background-image: linear-gradient(-180deg, #EA1D63 0%, #C2175B 45%, #870C4F 100%);
+}
+
+html, body { 
+  height: 100%;
+}
+
+
+.clock-timer {
+  position: fixed;
+  left: 70px;
+  top: 140px;
+  color: #FFFFFF;
+  font-size: 90px;
+}
